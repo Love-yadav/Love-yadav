@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Love-yadav
-- 👀 I’m interested in Progamming,cybersecurity and bug hunting also pentest as well
-- 🌱 I’m currently learning data structures and algorithms
+- 👀 I’m interested in Progamming,cybersecurity , bug hunting  and pentest also
 - 💞️ I’m looking to collaborate on nothig
 - 📫 How to reach me @loveyadav is my linked in account so you can reach me their as well
 
